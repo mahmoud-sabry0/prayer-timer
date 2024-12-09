@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prayer-timer/static/css/main.e2644fec.css",
+    "main.js": "/prayer-timer/static/js/main.19e1b8b5.js",
+    "static/js/453.68693753.chunk.js": "/prayer-timer/static/js/453.68693753.chunk.js",
+    "index.html": "/prayer-timer/index.html",
+    "main.e2644fec.css.map": "/prayer-timer/static/css/main.e2644fec.css.map",
+    "main.19e1b8b5.js.map": "/prayer-timer/static/js/main.19e1b8b5.js.map",
+    "453.68693753.chunk.js.map": "/prayer-timer/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2644fec.css",
+    "static/js/main.19e1b8b5.js"
+  ]
+}
